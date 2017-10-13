@@ -1,2 +1,2 @@
-# Hello_wrold
-Trial repo
+# Welcome to GH!!
+Trial repo for exploring gh-pages
